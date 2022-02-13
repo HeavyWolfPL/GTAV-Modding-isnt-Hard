@@ -688,15 +688,16 @@ Content for chapter one.
 
 
 ## Notices
----
+
+Orange:
 ! Single exclamation
---
+<br>Red:
 !! Double exclamation
----
+<br>Blue:
 !!! Triple exclamation
----
+<br>Green:
 !!!! Four exclamation marks
----
+
 
 ## Images
 Images have a similar syntax to links but include a preceding exclamation point.
