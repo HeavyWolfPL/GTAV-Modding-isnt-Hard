@@ -17,7 +17,7 @@ media_order: obraz_2022-02-13_134726.png
 > <br>Now the longest part (technically), making the RPF and gxt2 files.
 
 #### Making the GXT2 file.
-Make a `global.oxt` file, yes an `oxt`, not `gxt2`. Open it with Notepad++/VS Code/Any text editor other than Notepad.
+Make a `global.oxt` file, yes an `.oxt`, not `.gxt2`. You can do it normally, just like making a `.txt` file Open it with Notepad++/VS Code/Any text editor other than Notepad.
 <br>Use this template:
 ```xml
 Version 2 30
