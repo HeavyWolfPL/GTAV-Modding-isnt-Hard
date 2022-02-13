@@ -687,6 +687,12 @@ Content for chapter one.
 <br>
 
 
+## Notices
+! Single exclamation
+!! Double exclamation
+!!! Triple exclamation
+!!!! Four exclamation marks
+
 ## Images
 Images have a similar syntax to links but include a preceding exclamation point.
 
