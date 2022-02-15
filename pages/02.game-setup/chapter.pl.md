@@ -1,5 +1,5 @@
 ---
-title: 'Pliki Tekstowe'
+title: 'Game Setup'
 slug: podstawy
 taxonomy:
     category: docs
@@ -8,4 +8,4 @@ child_type: docs
 
 ### Baza Wiedzy
 
-# Pliki Tekstowe
+# Game Setup
