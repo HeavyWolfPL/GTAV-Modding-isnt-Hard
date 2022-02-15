@@ -29,6 +29,6 @@ You need to reference the file in `content.xml`. This goes inside the `dataFiles
 ```
 And put this inside the `filesToEnable` section
 ```
-<Item>dlc_polish_vms_pack:/common/data/dlctext.meta</Item>
+<Item>dlc_NAME_GOES_HERE:/PATH_GOES_HERE/dlctext.meta</Item>
 ```
 ! **Remember to change the `NAME_GOES_HERE`  and `PATH_GOES_HERE`!**
